@@ -1,0 +1,14 @@
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\bin\Debug\SFTP_gui.exe.config
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\bin\Debug\SFTP_gui.exe
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\bin\Debug\SFTP_gui.pdb
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.Form1.resources
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.Properties.Resources.resources
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.csproj.GenerateResource.cache
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.csproj.CoreCompileInputs.cache
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.exe
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.pdb
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.About.resources
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\bin\Debug\SFTP_gui.exe.manifest
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\bin\Debug\SFTP_gui.application
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.exe.manifest
+C:\Users\charvat\source\repos\SFTP_gui\SFTP_gui\obj\Debug\SFTP_gui.application
